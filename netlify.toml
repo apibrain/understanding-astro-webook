@@ -1,5 +1,0 @@
-[build]
-  publish = "dist" # Astro 默认输出目录
-
-[settings]
-  trailing_slash = "never"
