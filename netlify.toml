@@ -3,3 +3,6 @@
 
 [settings]
   trailing_slash = "never"
+
+[build.processing.html]
+  pretty_urls = false
