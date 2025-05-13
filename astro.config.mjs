@@ -24,7 +24,7 @@ export default defineConfig({
   devToolbar: {
     enabled: false
   },
-  site: "https://understanding-astro-webook.vercel.app/",
+  site: "https://understanding-astro.netlify.app/",
   integrations: [
     tailwind({
       applyBaseStyles: false
